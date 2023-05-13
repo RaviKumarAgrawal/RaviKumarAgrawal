@@ -22,7 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/mr-raaz" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/codepen/codepen-tile.svg" alt="mr-raaz" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mrraaz/" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-1024.png" alt="mrraaz/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ravi-kumar-agrawal-b14b18230/" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-1024.png" alt="ravi-kumar-agrawal/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/20487479" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-tile.svg" alt="20487479" height="30" width="40" /></a>
 <a href="https://codesandbox.com/mr_raaz" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/code-sandbox-3521354-2944798.png" alt="mr_raaz" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/mr_raaz" target="blank"><img align="center" src="https://img.icons8.com/color/512/GeeksforGeeks.png" alt="mr_raaz" height="30" width="40" /></a>
