@@ -29,13 +29,15 @@
   
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://brandeps.com/icon-download/P/Python-icon-vector-04.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
   <img src="https://github.com/RaviKumarAgrawal/RaviKumarAgrawal/assets/128930068/2891aec6-0bb6-47e8-a673-16c3352e123a" alt="MySQL" 
-  width="40" height="40"/> </a>
+  width="40" height="40"/> </a> <a href="https://powerbi.microsoft.com/en-us/" target="_blank" rel="noreferrer"> 
+  <img src="https://github.com/RaviKumarAgrawal/RaviKumarAgrawal/assets/128930068/c69f2ed3-4186-4fe3-8401-90b417c0d24d" alt="PowerBI" width="40" height="40"/> </a>
+  <a href="https://www.microsoft.com/en/microsoft-365/excel" target="_blank" rel="noreferrer"> 
+   <img src="https://github.com/RaviKumarAgrawal/RaviKumarAgrawal/assets/128930068/c435ba43-956b-49d8-970b-52ab2153d990" alt="MS Excel" width="60" height="40"/> </a>
 </p>
 <br><br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RaviKumarAgrawal&show_icons=true&locale=en&layout=compact" alt="RaviKumarAgrawal" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RaviKumarAgrawal&show_icons=true&locale=en" alt="RaviKumarAgrawal" /> </p>
-
 
 
 
