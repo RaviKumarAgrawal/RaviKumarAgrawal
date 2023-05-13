@@ -8,14 +8,15 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mr-raaz" alt="mr-raaz" /></a> </p> -->
 
-- 🌱 I’m currently learning **Backend**
+- 🌱 I’m currently learning **Data Analyst**
 
-- 💬 Ask me about **React , Javascript , Java**
+- 💬 Ask me about **Python , MySQL , PowerBI , MS Excel**
 
-- 📫 How to reach me **fakereal477@gmail.com**
+- 📫 How to reach me **raviag8340@gmail.com**
 
 - ⚡ Fun fact **I am funny**
--  <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-1024.png"  height="15px" width="15px"/> <a href="https://www.linkedin.com/in/mrraaz/">&nbsp;Linkedin</a>
+-  <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-1024.png"  height="15px" width="15px"/> <a 
+-  href="https://www.linkedin.com/in/ravi-kumar-agrawal-b14b18230/">&nbsp;Linkedin</a>
 
 
 <h3 align="left">Connect with me:</h3>
