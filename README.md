@@ -27,7 +27,9 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://brandeps.com/icon-download/P/Python-icon-vector-04.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/RaviKumarAgrawal/RaviKumarAgrawal/assets/128930068/60f8471d-1504-42cc-8520-a103b0cf777c" alt="MySQL" width="40" height="40"/> </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://brandeps.com/icon-download/P/Python-icon-vector-04.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://github.com/RaviKumarAgrawal/RaviKumarAgrawal/assets/128930068/60f8471d-1504-42cc-8520-a103b0cf777c" alt="MySQL" 
+  width="40" height="40"/> </a>
 </p>
 <br><br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RaviKumarAgrawal&show_icons=true&locale=en&layout=compact" alt="RaviKumarAgrawal" /></p>
