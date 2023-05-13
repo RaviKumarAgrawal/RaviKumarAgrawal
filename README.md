@@ -28,7 +28,7 @@
 <p align="left"> 
   
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://brandeps.com/icon-download/P/Python-icon-vector-04.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://github.com/RaviKumarAgrawal/RaviKumarAgrawal/assets/128930068/60f8471d-1504-42cc-8520-a103b0cf777c" alt="MySQL" 
+  <img src="https://github.com/RaviKumarAgrawal/RaviKumarAgrawal/assets/128930068/2891aec6-0bb6-47e8-a673-16c3352e123a" alt="MySQL" 
   width="40" height="40"/> </a>
 </p>
 <br><br>
